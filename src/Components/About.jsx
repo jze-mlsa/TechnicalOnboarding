@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/austria.jpeg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Photo of mountains and road in Austria";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hey! I'm Jan and I'm a student of Applied Informatics in Prague, Czech Republic with strong passion for modern technologies, most notably for cloud.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I like to focus deeply on topics that I am interested in, particularly on Microsoft 365 and Azure. Recently, I have been trying to dive into AI 🤖 My participation within the Microsoft community began in 2018, when I was accepted to the Student Trainee Center, a self-development program for talented Czech high school students oriented on tech skills in Microsoft products, soft skills and business skills. I mostly contributed by doing marketing content - photos from events, promotional videos etc. Thanks to STC, I was able to successfully deploy Microsoft 365 at my high school and train teachers and students just a few months before the COVID-19 pandemic emerged. I was employed for 2 years as Cloud Solutions Specialist for a Microsoft Cloud Solutions Provider, so I have already gained some practical experience in working with customers.
+  ";
 
 const About = () => {
   return (

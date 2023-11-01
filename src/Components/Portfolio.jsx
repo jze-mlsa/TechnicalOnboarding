@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/rome-portrait.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Photo of me in Rome, Italy";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft 365 at František Palacký Grammar School in Neratovice",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I implemented Microsoft 365 (Office 365 then) for both teachers and students at my grammar school. Thanks to M365, communication, collaboration and productivity advanced to a completely new level and everyone can use the newest Office suite - even at home. The entire project included consultations with the school's IT administrator, training and an adoption campaign (utilizing the school's website, social media and email). During the COVID-19 pandemic, transition to distance learning proved to be simple compared to other schools.",
+    url: "https://www.gfp.cz/microsoft365/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Website of the project 'Waking up in Baroque'",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Website of an Erasmus+ project that I participated in. The website is made in WordPress and is available in English and Czech.",
+    url: "https://baroque.gfp.cz/",
   },
   {
-    title: "My Resume Site",
+    title: "Video - Microsoft Day 2019",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Video from the Microsoft Day 2019 event that I made a few years ago.",
+    url: "https://www.youtube.com/watch?v=c9albOyY280",
   },
 ];
 
